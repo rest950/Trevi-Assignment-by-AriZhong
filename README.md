@@ -1,6 +1,6 @@
 # trevi_assignment
 
-A new Flutter project.
+Trevi assignment done by AriZhong
 
 ## Getting Started
 
